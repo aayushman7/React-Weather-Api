@@ -1,0 +1,30 @@
+header{
+    
+  display:flex;
+  flex-direction: column;
+  min-height: 80vh;
+
+}
+
+main {
+  
+  text-align: center;
+  
+}
+
+footer {
+  padding: 2px;
+  min-height: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: #EEEEEE;
+  font-size: small;
+  text-align: center;
+}
+
+header {
+  padding: 15px;
+}
+
+
