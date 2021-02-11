@@ -22,8 +22,8 @@ const Forecast = () => {
     setResponsObj (result.data) 
     
     
-    
    }
+   
    
 
    return (
